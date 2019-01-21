@@ -1,2 +1,4 @@
 # hello_world
-new
+new repository
+Hi!
+This is Moshika from Tuticorin.
